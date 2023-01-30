@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 
 ---
-Kodluyoruz Front-End Eğitimi Kapsamında İlk Repo. Front-End alanında kendimi geliştirmekteyim. İlk etapta HTML, CSS, Javascript alanlarında kendimi geliştirmeyi hedefliyorum.
+Kodluyoruz Front-End Eğitimi Kapsamındaki [ilk repo](https://www.patika.dev). Front-End alanında kendimi geliştirmekteyim. İlk etapta HTML, CSS, Javascript alanlarında kendimi geliştirmeyi hedefliyorum.
 
 ---
 # Installation
